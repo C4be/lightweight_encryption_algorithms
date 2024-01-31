@@ -53,6 +53,7 @@
         - [ ] `clang-format`
         - [ ] `leaks-check`
         - [ ] `cpp-check`
+        - [ ] `clean`
 
 ## Определения:
 
