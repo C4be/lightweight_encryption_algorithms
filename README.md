@@ -54,10 +54,10 @@
         - [ ] `debug`
         - [ ] `test`
         - [ ] `gcov_report`
-        - [ ] `clang-format`
-        - [ ] `leaks-check`
-        - [ ] `cpp-check`
-        - [ ] `clean`
+        - [x] `clang-format`
+        - [x] `leaks-check`
+        - [x] `cpp-check`
+        - [x] `clean`
 
 ## Определения:
 
@@ -88,6 +88,10 @@
 <!-- ## Сокращения: -->
 
 ## Алгоритмы
+
+- [Семейство алгоритмов NASH](./docs/NASH.md)
+- [Семейство алгоритмов SIMON](./docs/SIMON.md)
+- [Семейство алгоритмов SPEC](./docs/SPEC.md)
 
 ## Структура проекта и компиляция
 
