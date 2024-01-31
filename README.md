@@ -21,7 +21,17 @@
 
 **TODO (HISTORY):**
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+- [ ] Изучить теорию и составить список литературы.
+- [ ] Программирование:
+    - [ ] Структурировать репозиторий.
+    - [ ] Написать `Makefile` и задачи:
+        - [ ] `build`
+        - [ ] `debug`
+        - [ ] `test`
+        - [ ] `gcov_report`
+        - [ ] `clang-format`
+        - [ ] `leaks-check`
+        - [ ] `cpp-check`
+    
+
 
