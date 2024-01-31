@@ -1,0 +1,6 @@
+#ifndef LIGHTWEIGHT_ALGS
+#define LIGHTWEIGHT_ALGS
+
+
+
+#endif // LIGHTWEIGHT_ALGS
